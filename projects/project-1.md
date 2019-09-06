@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/capture.PNG
+image: images/Capture.PNG
 title: Soul Quest
 permalink: projects/Soul Quest
 # All dates must be YYYY-MM-DD format!
