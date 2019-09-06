@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/legv8.png
+image: images/vhdl.PNG
 title: Single Stage LegV8 CPU
 permalink: projects/LegV8
 # All dates must be YYYY-MM-DD format!
