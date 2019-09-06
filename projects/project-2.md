@@ -1,25 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Rhn_cover.jpg
 title: Vacay
-permalink: projects/vacay
+permalink: projects/Army Regional Hub Node
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2011-05-31
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Satellite communications 
+  - Computer Networking
+  - Trouble shooting
+summary: Working at the US army's Regional Hub Nude.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="Working at the Regional Hub Node" src="../images/rhnWork.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Participated in the installation, operation, and maintenance of satellite communications and internet protocol routing networks that supported over 60% of the U.S. Army’s telecommunications missions.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+For more information about the Army Regional Hub Node https://peoc3t.army.mil/tn/rhn.php
