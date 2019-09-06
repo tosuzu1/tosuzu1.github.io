@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Rhn_cover.jpg
-title: Vacay
+title: Army Regional Hub Node
 permalink: projects/Army Regional Hub Node
 # All dates must be YYYY-MM-DD format!
 date: 2011-05-31
@@ -10,7 +10,7 @@ labels:
   - Satellite communications 
   - Computer Networking
   - Trouble shooting
-summary: Working at the US army's Regional Hub Nude.
+summary: Working at the US army's Regional Hub Node.
 ---
 
 <img class="Working at the Regional Hub Node" src="../images/rhnWork.jpg">
