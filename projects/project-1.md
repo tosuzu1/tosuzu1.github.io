@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/capture.PNG
 title: Soul Quest
-permalink: projects/micromouse
+permalink: projects/Soul Quest
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-10
 labels:
