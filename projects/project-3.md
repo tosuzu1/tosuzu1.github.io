@@ -14,7 +14,7 @@ summary: Building a simple single stage legv8 CPU in Verilog.
 ---
 This project was my attempt at building a single stage legv8 CPU using Verilog. Verilog is a hardware description language (HDL) used to model electronic systems. In this project we were tasked given a diagram of LegV8 CPU, a short program chip, and some small modules such as a mux that was prebuilt to build a CPU capable of decoding the instruction and performing operations simular to a CPU.
 
-Complete this project helpped me better understand how a CPU works, deep down inside its register and gates. It gave me a deep look into how programs are translatted into opcodes and register data which all take different paths inside a CPU depending on the operation, one step at a time.
+By completing this project helpped me better understand how a CPU works, deep down inside its register and gates. It gave me a deep look into how programs are translatted into opcodes and register data which all take different paths inside a CPU depending on the operation, one step at a time.
 
 Source: https://www.edaplayground.com/x/3uC3
 
