@@ -16,4 +16,5 @@ For our final project for our class EE205 Data Structure, we were given a task t
 For this project, we initially had a lot features we wanted to implement, but as the deadline was a lot sooner than expected, we learn that implement features would often break other feature with had previous implement. As a result we had to rebuild our feature set and list more reason goals.
 
 For this Project, I built the object for the enemy classes and assist my team with the equipment class. While working on this project, we learned about basic code collaboration by using discord to communicate with each other and github to share and control our code. This project was my first major step in learning about teamwork in a programming environment and also help me understand object-oriented programming.
+
 You can learn more at the https://github.com/chriswon98/EE205/tree/master/Final/project .
