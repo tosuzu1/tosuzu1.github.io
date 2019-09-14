@@ -17,9 +17,13 @@ summary: Building a simple single stage legv8 CPU in Verilog.
 
 This project was my attempt at building a single stage legv8 CPU using Verilog. Verilog is a hardware description language (HDL) used to model electronic systems. In this project we were given a diagram of a LegV8 CPU, a short program, and some small modules such as a mux that was prebuilt to build a CPU capable of decoding the instruction and performing operations similar to a CPU. Our instructor provided some simple examples on how to build a memory module, verilog examples, and other various material to complete our task.
 
+<img class="Op codes" src="../images/BWLrW.png">
+
 ## Building the CPU
  
 By completing this project helped me better understand how a CPU works, deep down inside its register and gates. It gave me a deep look into how programs are translated into opcodes and register data which all take different paths inside a CPU depending on the operation, one step at a time. First, we will be using verilog to build our CPU. Since our topic did not cover examples of branch prediction nor did we have much time to complete a pipeline CPU, our CPU only operated in single strage, that is a single instruction is ran through the entire path which took about 4 clock cycles to complete.
+
+<img class="Op codes" src="../images/Legv8_simple.png">
 
 ## Result
  
