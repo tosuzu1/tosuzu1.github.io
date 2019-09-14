@@ -70,8 +70,13 @@
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.14",
-      "courses": [
-      ]
+      "courses": ["EE 468: Operating system",
+                  "EE 367: Algorithms" ,
+                  "EE 371: Electromagnetics",
+                  "EE 315: Signals and Systems",
+                  "EE 205: Data Structures",
+                  "EE 260: Digital Design",
+                  "ICS 355: Security and Trust" ]
     }
   ],
   "work": [
