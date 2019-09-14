@@ -19,7 +19,7 @@ summary: Working at the US army's Regional Hub Node.
 
 The Army's project to expand its satellite network to support more bandwidth for the warfighter to provide more C4I for today's modern battlefield. The growing need for secure voice and video as well as data on the move helped grow the Regional Hub Node into its primary communication architecture. One of the primary way the army expanded it bandwidth was the introduction of TCP/IP onto the satellite architecture. Previous all communication to the satellite modem was done via serial connection, which was a static bandwidth for each link, causing unused bandwidth to become wasted. With TCP/IP, it allowed the army to used a swtich network, combined with quality of service, allowing bandwidth to be dynamicly allocated for user that were using the link.
 
-<img class="Our distant end " src="../images/stt-army.jpg">
+<img class="Our distant end " src="../images/stt-army.png">
 
 ## My role in the army
 
