@@ -1,0 +1,29 @@
+---
+layout: essay
+type: essay
+title: Coding stanards
+# All dates must be YYYY-MM-DD format!
+date: 2019-09-05.
+labels:
+  - Javascipt
+  - ES6
+  - ESlint
+  - Standards
+  - IntelliJ
+---
+
+## Inital Thoughts About Coding Standards
+
+Coding standards is very important because it can become an issue like the Unix fork problem. Back in the 1980s Unix was the standard operating system that everyone ran. Unix was popular, but everyone started to create their own flavor of Unix, such as System V and BSD Unix which started creating compatibility issues, which is similar to our situation where we have many programmer writing in javascript or c, but the way people define variables, leave spaces makes it hard to read something or follow their frame of thinking.
+
+## Importants of a Standard
+
+POSIX was a standard that was created to ensure compatibility between the operating system. It set fore standards, such as definitions, system calls that were agree upon by all vendors. I look at this like our ESLint, it helps us build a standard that helps fellow programmer to easily follow and read code written, which can help debugging or collaboration as most great projects are build by a team. Some great project like Linux or even the very language we’re learning in this class JavaScript are build by a team of programmer, thus having a standard help makes code readable by other programmers.
+
+## Opinions on Athletic Software Engineering
+
+Being an athletic software engineer is important as being fit help help combat our sedentary lifestyle. Being athletic will also help us become more active , helping us focus during our work instead of being sleepy all the time and drinking caffeine to combat our lack of focus.
+
+## Conclusion
+
+I therefore find ESLint useful, just like all standards before like the TCP/IP model and POSIX, because it helps programmer conform to a set of coding standards, that help other software developer or programmer more easily understand and read other people’s work.
