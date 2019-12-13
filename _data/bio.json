@@ -4,12 +4,9 @@
     "label": "Student",
     "picture": "https://tosuzu1.github.io/images/FelixHong_ProfilePic.jpg",
     "email": "hongf@hawaii.edu",
-    "phone": "910-494-1665",
     "website": "https://tosuzu1.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Eletrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "853 Waiaka Road",
-      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
